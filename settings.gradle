@@ -1,0 +1,5 @@
+rootProject.name = 'martin-kokonyan-student-management'
+
+include 'student-management-cli'
+include 'student-management-domain'
+include 'student-management-rest-api'

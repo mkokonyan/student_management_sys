@@ -1,0 +1,5 @@
+description = "student-management-cli"
+
+dependencies {
+    implementation project(":student-management-domain")
+}
